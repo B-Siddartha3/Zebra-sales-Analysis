@@ -45,8 +45,8 @@ It provides insights into **brand performance, discount strategies, and profitab
 ---
 
 ## 📈 Dashboard Preview
-![Brand Performance Overview](images/Screenshot-2025-09-20-at-9-35-34-PM.png)
-![Sales Analytics Details](images/Screenshot-2025-09-20-at-6-06-54-PM.png)
+![Brand page](images/image1.png)
+![Sales Analytics Details](images/image2.png)
 
 ---
 
@@ -82,9 +82,9 @@ Please feel free to fork this repository, submit issues, or propose enhancements
 ---
 
 ## 📬 Contact
-👤 **Your Name**  
-📧 [your.email@example.com]  
-🔗 [Your LinkedIn Profile URL]  
+👤 **B.Siddartha**  
+📧 [www.siddarthasid3@gmail.com]  
+🔗 [www.linkedin.com/in/siddartha-bokka-159a65208]  
 
 ---
 ⭐ If you find this dashboard useful, please **star this repository**
